@@ -1,0 +1,179 @@
+[
+{
+"id": 1,
+"title": "Fight Club - Tyler Durden speech",
+"thumbnail": "/fightclub.jpg",
+"url": "https://www.youtube.com/watch?v=chyRpj-971o",
+"segments":
+[
+  {
+    "start": 0,
+    "end": 4.06,
+    "answer": "I look around, I look around, I see a lot of new faces",
+    "translation": "Я оглядываюсь, оглядываюсь — вижу много новых лиц"
+  },
+  {
+    "start": 4.06,
+    "end": 7.34,
+    "answer": "Shut up",
+    "translation": "Заткнись"
+  },
+  {
+    "start": 7.34,
+    "end": 12.69,
+    "answer": "which means a lot of people have been breaking the first two rules of Fight Club",
+    "translation": "а это значит, что многие нарушают первые два правила Бойцовского клуба"
+  },
+  {
+    "start": 12.69,
+    "end": 24.98,
+    "answer": "Man, I see in fight club the strongest and the smartest men who've ever lived",
+    "translation": "Чёрт возьми, я вижу в Бойцовском клубе самых сильных и умных мужчин, какие только жили"
+  },
+  {
+    "start": 24.98,
+    "end": 27.86,
+    "answer": "I see all this potential",
+    "translation": "Я вижу огромный потенциал"
+  },
+  {
+    "start": 27.86,
+    "end": 29.64,
+    "answer": "And I see it squandering",
+    "translation": "И вижу, как он пропадает впустую"
+  },
+  {
+    "start": 29.64,
+    "end": 38.81,
+    "answer": "God damn it, an entire generation pumping gas, waiting tables, slaves with white collars",
+    "translation": "Чёрт побери, целое поколение качает бензин, подаёт блюда — рабы в белых воротничках"
+  },
+  {
+    "start": 38.81,
+    "end": 44.08,
+    "answer": "Advertising has us chasing cars and clothes",
+    "translation": "Реклама заставляет нас гнаться за машинами и одеждой"
+  },
+  {
+    "start": 44.08,
+    "end": 47.93,
+    "answer": "Working jobs we hate so we can buy shit we don't need",
+    "translation": "Мы работаем на работах, которые ненавидим, чтобы покупать хлам, который нам не нужен"
+  },
+  {
+    "start": 47.93,
+    "end": 53.71,
+    "answer": "We're the middle children of history, man",
+    "translation": "Мы — среднее поколение истории, чувак"
+  },
+  {
+    "start": 53.71,
+    "end": 56.22,
+    "answer": "No purpose or place",
+    "translation": "Без цели и без места"
+  },
+  {
+    "start": 56.22,
+    "end": 58.78,
+    "answer": "We have no Great war",
+    "translation": "У нас нет великой войны"
+  },
+  {
+    "start": 58.78,
+    "end": 60.51,
+    "answer": "No Great depression",
+    "translation": "Нет великой депрессии"
+  },
+  {
+    "start": 60.51,
+    "end": 65.19,
+    "answer": "Our Great war is a spiritual war",
+    "translation": "Наша великая война — духовная война"
+  },
+  {
+    "start": 65.19,
+    "end": 68.96,
+    "answer": "Our Great depression is our lives",
+    "translation": "Наша великая депрессия — это наша жизнь"
+  },
+  {
+    "start": 68.96,
+    "end": 78.21,
+    "answer": "We've been raised on television to believe that one day we'd all be millionairs, and movie gods, and rockstars",
+    "translation": "Нас воспитало телевидение, внушая, что однажды мы станем миллионерами, звёздами кино и рок-идолами"
+  },
+  {
+    "start": 78.21,
+    "end": 80.02,
+    "answer": "But we won't",
+    "translation": "Но мы не станем"
+  },
+  {
+    "start": 80.02,
+    "end": 82.86,
+    "answer": "And we're slowly learning that fact",
+    "translation": "И мы постепенно начинаем это понимать"
+  },
+  {
+    "start": 82.86,
+    "end": 86.76,
+    "answer": "And we're very, very pissed off",
+    "translation": "И мы дико, дико злы"
+  }
+]
+
+},
+
+{
+  "id": 2,
+  "title": "The Police — Every Breath You Take",
+  "thumbnail": "/thepolice.jpg",
+  "url": "https://www.youtube.com/watch?v=OMOGaugKpzs",
+  "segments": 
+    [
+  { "start": 0, "end": 18, "answer": "Every breath you take", "translation": "Каждый твой вдох" },
+  { "start": 18, "end": 22, "answer": "And every move you make", "translation": "И каждое твоё движение" },
+  { "start": 22, "end": 25.5, "answer": "Every bond you break", "translation": "Каждую связь, что ты разрываешь" },
+  { "start": 25.5, "end": 27.5, "answer": "Every step you take", "translation": "Каждый шаг, что ты делаешь" },
+  { "start": 27.5, "end": 30, "answer": "I'll be watching you", "translation": "Я буду наблюдать за тобой" },
+  { "start": 31, "end": 36, "answer": "Every single day", "translation": "Каждый божий день" },
+  { "start": 36, "end": 38, "answer": "Every word you say", "translation": "Каждое слово, что ты скажешь" },
+  { "start": 38, "end": 42, "answer": "Every game you play", "translation": "Каждую игру, в которую ты играешь" },
+  { "start": 42, "end": 44, "answer": "Every night you stay", "translation": "Каждую ночь, когда ты остаёшься" },
+  { "start": 44, "end": 46, "answer": "I'll be watching you", "translation": "Я буду наблюдать за тобой" },
+  { "start": 46.08, "end": 51.95, "answer": "Oh, can't you see", "translation": "Разве ты не видишь" },
+  { "start": 51.95, "end": 55.7, "answer": "You belong to me", "translation": "Ты принадлежишь мне" },
+  { "start": 55.7, "end": 60.31, "answer": "How my poor heart aches", "translation": "Как болит моё бедное сердце" },
+  { "start": 60.31, "end": 63.78, "answer": "With every step you take", "translation": "С каждым твоим шагом" },
+  { "start": 63.78, "end": 67.29, "answer": "Every move you make", "translation": "Каждое твоё движение" },
+  { "start": 67.29, "end": 72.09, "answer": "And every vow you break", "translation": "И каждое обещание, что ты нарушаешь" },
+  { "start": 72.09, "end": 74.7, "answer": "Every smile you fake", "translation": "Каждую твою фальшивую улыбку" },
+  { "start": 74.7, "end": 76.97, "answer": "Every claim you stake", "translation": "Каждое твоё притязание" },
+  { "start": 76.97, "end": 79.29, "answer": "I'll be watching you", "translation": "Я буду наблюдать за тобой" },
+  { "start": 79.29, "end": 87.13, "answer": "Since you've gone, I've been lost without a trace", "translation": "С тех пор как ты ушла, я потерян без следа" },
+  { "start": 87.13, "end": 91.26, "answer": "I dream at night, I can only see your face", "translation": "Ночами я мечтаю, вижу лишь твоё лицо" },
+  { "start": 91.26, "end": 95.57, "answer": "I look around, but it's you I can't replace", "translation": "Я оглядываюсь, но тебя ничем не заменить" },
+  { "start": 95.57, "end": 99.51, "answer": "I feel so cold, and I long for your embrace", "translation": "Мне так холодно, я тоскую по твоим объятиям" },
+  { "start": 99.51, "end": 107.72, "answer": "I keep crying, baby, baby please", "translation": "Я всё плачу — милая, прошу тебя" },
+  { "start": 107.72, "end": 138.21, "answer": "Oh, can't you see", "translation": "Разве ты не видишь" },
+  { "start": 138.21, "end": 141.33, "answer": "You belong to me", "translation": "Ты принадлежишь мне" },
+  { "start": 141.33, "end": 145.81, "answer": "How my poor heart aches", "translation": "Как болит моё бедное сердце" },
+  { "start": 145.81, "end": 149.44, "answer": "With every step you take", "translation": "С каждым твоим шагом" }
+
+]
+  
+},
+{
+  "id": 3,
+  "title": "Test",
+  "thumbnail": "/thepolice.jpg",
+  "url": "https://www.youtube.com/watch?v=OMOGaugKpzs",
+  "segments": 
+    [
+  { "start": 0, "end": 18, "answer": "Every breath you take", "translation": "Каждый твой вдох" },
+  { "start": 18, "end": 22, "answer": "And every move you make", "translation": "И каждое твоё движение" },
+  { "start": 22, "end": 25.5, "answer": "Every bond you break", "translation": "Каждую связь, что ты разрываешь" }
+    ]
+}
+
+]
