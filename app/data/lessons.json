@@ -1,6 +1,6 @@
 [
 {
-"id": 1,
+"id": 3,
 "title": "Fight Club - Tyler Durden speech",
 "thumbnail": "/fightclub.jpg",
 "url": "https://www.youtube.com/watch?v=chyRpj-971o",
@@ -163,17 +163,125 @@
 ]
   
 },
+
 {
-  "id": 3,
-  "title": "Test",
-  "thumbnail": "/thepolice.jpg",
-  "url": "https://www.youtube.com/watch?v=OMOGaugKpzs",
+  "id": 1,
+  "title": "The benefits of a bilingual brain - Mia Nacamulli (Part 1)",
+  "thumbnail": "/ted1.jpg",
+  "url": "https://youtu.be/MMmOLN5zBLY?si=Q0SLZVmPnD02IMl3",
   "segments": 
     [
-  { "start": 0, "end": 18, "answer": "Every breath you take", "translation": "Каждый твой вдох" },
-  { "start": 18, "end": 22, "answer": "And every move you make", "translation": "И каждое твоё движение" },
-  { "start": 22, "end": 25.5, "answer": "Every bond you break", "translation": "Каждую связь, что ты разрываешь" }
-    ]
+  {
+    "start": 22.35,
+    "end": 27.34,
+    "answer": "And besides having an easier time traveling or watching movies without subtitles",
+    "translation": "Кроме того, что путешествовать и смотреть фильмы без субтитров становится проще,"
+  },
+  {
+    "start": 27.34,
+    "end": 33.6,
+    "answer": "knowing two or more languages means that your brain may look and work differently than those of your monolingual friends",
+    "translation": "знание двух и более языков означает, что ваш мозг может выглядеть и функционировать иначе, чем у ваших друзей, говорящих только на одном языке."
+  },
+  {
+    "start": 33.6,
+    "end": 37.79,
+    "answer": "So what does it really mean to know a language?",
+    "translation": "Так что же на самом деле значит «знать язык»?"
+  },
+  {
+    "start": 37.79,
+    "end": 42.85,
+    "answer": "Language ability is typically measured in two active parts, speaking and writing",
+    "translation": "Языковые способности обычно оцениваются по двум активным аспектам — говорению и письму,"
+  },
+  {
+    "start": 42.85,
+    "end": 45.92,
+    "answer": "and two passive parts, listening and reading",
+    "translation": "и двум пассивным — пониманию на слух и чтению."
+  },
+  {
+    "start": 45.92,
+    "end": 52.25,
+    "answer": "While a balanced bilingual has near equal abilities across the board in two languages",
+    "translation": "Сбалансированный билингв владеет обоими языками почти на одинаковом уровне во всех областях,"
+  },
+  {
+    "start": 52.25,
+    "end": 57.32,
+    "answer": "most bilinguals around the world know and use their languages in varying proportions",
+    "translation": "но большинство билингвов в мире знают и используют свои языки в разной степени."
+  },
+  {
+    "start": 57.32,
+    "end": 61.5,
+    "answer": "And depending on their situation and how they acquired each language,",
+    "translation": "И в зависимости от обстоятельств и того, как человек освоил каждый язык,"
+  },
+  {
+    "start": 61.5,
+    "end": 64.55,
+    "answer": "they can be classified into three general types.",
+    "translation": "билингвов можно разделить на три основных типа."
+  },
+  {
+    "start": 64.55,
+    "end": 71.52,
+    "answer": "For example, let's take Gabriella, whose family immigrates to the US from Peru when she's two years old.",
+    "translation": "Например, возьмём Габриэллу, чья семья эмигрировала в США из Перу, когда ей было два года."
+  },
+  {
+    "start": 71.52,
+    "end": 77.65,
+    "answer": "As a compound bilingual, Gabriella develops two linguistic codes simultaneously",
+    "translation": "Будучи составным билингвом, Габриэлла развивает две языковые системы одновременно,"
+  },
+  {
+    "start": 77.65,
+    "end": 79.8,
+    "answer": "with a single set of concepts",
+    "translation": "опираясь на единую систему понятий,"
+  },
+  {
+    "start": 79.8,
+    "end": 84.77,
+    "answer": "learning both English and Spanish, as she begins to process the world around her.",
+    "translation": "осваивая одновременно английский и испанский, когда начинает познавать окружающий мир."
+  },
+  {
+    "start": 84.77,
+    "end": 88.97,
+    "answer": "Her teenage brother, on the other hand, might be a coordinate bilingual,",
+    "translation": "Её старший брат-подросток, напротив, может быть координатным билингвом,"
+  },
+  {
+    "start": 88.97,
+    "end": 91.32,
+    "answer": "working with two sets of concepts,",
+    "translation": "использующим две отдельные системы понятий,"
+  },
+  {
+    "start": 91.32,
+    "end": 96.68,
+    "answer": "learning English in school, while continuing to speak Spanish at home and with friends",
+    "translation": "изучая английский в школе, но продолжая говорить по-испански дома и с друзьями."
+  },
+  {
+    "start": 96.68,
+    "end": 101.3,
+    "answer": "Finally, Gabriella's parents are likely to be subordinate bilinguals",
+    "translation": "Наконец, родители Габриэллы, скорее всего, являются подчинёнными билингвами,"
+  },
+  {
+    "start": 101.3,
+    "end": 105.44,
+    "answer": "who learn a secondary language by filtering it through their primary language",
+    "translation": "которые изучают второй язык, воспринимая его через призму своего родного языка."
+  }
+]
+
 }
+
 
 ]
